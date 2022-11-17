@@ -1,0 +1,1 @@
+Hello there! My name is Adriana and I am Odin Project student. In this website, I will demonstrate some new skills I have learned recently. I will make a website fom start to finish about some delicious recipes.
